@@ -1,5 +1,5 @@
 # HexagonalGuessMyNumber
-The example code showing a guess my number game done with and without 'hexagonal architecture'
+The example code showing a guess my number game done with and without 'hexagonal architecture' using for displaying the augmented capabilities of a os native gui bring us (using "a good and old Window" instead of the stdout)
 
 Accompanying tutorial at https://www.viewfromthecodeface.com/portfolio/clean-code-hexagonal-architecture/
 4
