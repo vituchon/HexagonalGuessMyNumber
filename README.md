@@ -11,12 +11,12 @@ Assuming that you are an user using a computer with your working directory on He
 `user@computer:./HexagonalGuessMyNumber`
 
 ### Build
-$ mkdir bin
-$ javac $(find . -iname "*.java" -printf '%p ') -d bin
+* `$ mkdir bin`
+* `$ javac $(find . -iname "*.java" -printf '%p ') -d bin`
 
 ### Run
 after compiling the source classes into a directory, like "bin" you could do:
-$ java -cp bin com.viewfromthecodeface.hexagonal.Game
+* `$ java -cp bin com.viewfromthecodeface.hexagonal.Game`
 or
-$ cd bin
-$ java com.viewfromthecodeface.hexagonal.Game
+* `$ cd bin`
+* `$ java com.viewfromthecodeface.hexagonal.Game`
