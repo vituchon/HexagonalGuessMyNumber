@@ -1,7 +1,7 @@
 # HexagonalGuessMyNumber
 
 * It is a fork of [this project](https://github.com/viewfromthecodeface/HexagonalGuessMyNumber)
-* I added new way of displaying the results to an end-user without touching the domain layer thus following the Open Closed principle. 
+* I provide a new way of displaying the results to an end-user without touching the domain layer thus following the Open Closed principle. 
    * I added new class that follow the display interface for displaying results in an OS native GUI (a.k.a "window")
 
 Accompanying tutorial at https://www.viewfromthecodeface.com/portfolio/clean-code-hexagonal-architecture/
