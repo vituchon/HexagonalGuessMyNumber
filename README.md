@@ -5,7 +5,7 @@ Accompanying tutorial at https://www.viewfromthecodeface.com/portfolio/clean-cod
 
 ## Build and run
 
-Assuming that you are an user using a computer with your working directory on HexagonalGuessMyNumber folder (were you just download the code)
+Assuming that you are an user using a computer with your working directory on HexagonalGuessMyNumber folder (where you just download the code)
 
 `user@computer:./HexagonalGuessMyNumber`
 
